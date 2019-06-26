@@ -1,3 +1,5 @@
+# Sujal Dont do wrong works Thid is for ur learning I will not be responsible for anything bad u did.
+
 # DDos-Attack 
 ### What Is A DDos-Attack
 
@@ -21,3 +23,4 @@ from banks to news websites, and present a major challenge to making sure people
 
 
 
+Credid goes to the Author
